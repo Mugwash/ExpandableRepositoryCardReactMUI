@@ -2,9 +2,9 @@
 
 The Repo Card is a component created in `maincontent.tsx` that displays information about a repository. It is designed to provide a visually appealing and informative summary of the repository's key details.
 Screenshot of Card expanded
-![alt text](screenshots\ScreenshotCardExpanded.png)
+![alt text](https://github.com/Mugwash/ExpandableRepositoryCardReactMUI/blob/main/screenshots/ScreenshotCardExpanded.png?raw=true)
 Screenshot of Card Collapsed
-![alt text](C:\RepoCard\screenshots\ScreenshotCardCollapsed.png)
+![alt text](https://github.com/Mugwash/ExpandableRepositoryCardReactMUI/blob/main/screenshots/ScreenshotCardCollapsed.png?raw=true)
 
 
 ## Usage
