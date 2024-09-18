@@ -77,21 +77,3 @@ export default App;
 ```
 
 This will render the Repo Card component with the specified repository details.
-
-## Props
-
-The Repo Card component accepts the following props:
-
-img:
-    tag:
-    title:
-    description:
-    commit: [{
-      messageTop:
-      messageRemainder:
-      patchData:
-      theGist
-    }],
-    repoData: [{ name: avatar:  mostRecentCommitDate:  }],
-
-This will render the Repo Card component with the specified repository details.
