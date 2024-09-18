@@ -416,7 +416,6 @@ export default function MainContent() {
                 {cardData[0].description}
               </StyledTypography>
               <CommitData commitData={[cardData[0].commit[0]]} />
-              <CommitData commitData={[cardData[0].commit[1]]} />
             </SyledCardContent>
             <RepoData repoData={cardData[0].repoData} />
           </SyledCard>
